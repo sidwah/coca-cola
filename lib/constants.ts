@@ -2,8 +2,8 @@ export const SITE_CONFIG = {
   name: 'Coca-Cola',
   title: 'Coca-Cola - Open Happiness',
   description: 'Experience the original, ice cold, refreshing, timeless taste that brings people together for generations. Coca-Cola, embracing life exactly as it happens.',
-  url: 'https://coca-cola.vercel.app',
-  ogImage: 'https://coca-cola.vercel.app/og-image.jpg',
+  url: 'https://coca-cola-tau.vercel.app',
+  ogImage: 'https://coca-cola-tau.vercel.app/og-image.jpg',
   keywords: 'Coca-Cola, Coke, soft drink, refreshment, beverage, happiness',
   author: 'The Coca-Cola Company',
 };
